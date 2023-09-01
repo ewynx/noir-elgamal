@@ -1,0 +1,8 @@
+[package]
+authors = ["Elena Fuentes"]
+compiler_version = "0.10.0"
+name = "hom_addition"
+type = "bin"
+
+[dependencies]
+lib = { path = "../../lib"}

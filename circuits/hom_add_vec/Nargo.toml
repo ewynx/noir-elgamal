@@ -1,0 +1,8 @@
+[package]
+name = "hom_add_vec"
+type = "bin"
+authors = ["Elena Fuentes"]
+compiler_version = "0.10.0"
+
+[dependencies]
+lib = { path = "../../lib"}

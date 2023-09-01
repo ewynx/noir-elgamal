@@ -1,0 +1,10 @@
+#  TODO Even though these are the same constraints as the in-file test, it doesn't constrain the values
+
+gen = "0x183227397098d014dc2822db40c0ac2e9419f4243cdcb848a1f0fac9fd2c88d0"
+pub_key = "0x06c4dfa71f2a7a8810dc34ce86938764a51b6bf5bce71da90c1c5fc9407e0ebc"
+r1 = "0x2985ed729cc49a9b5101df32947d590680403ad6dc00cd91b6f4d1107eb65f2d"
+r2 = 1234
+m1 = 1111
+m2 = 2222
+ciphertext_1 = "0x28f0bc9519eb25c9e5d87a7aabfb14e3f41ae49d713eb1733ac2eca419187273"
+ciphertext_2 = "0x1259909371844412078bdf92a226e2662ffcb60ea17b89576eaf231a9e007571"

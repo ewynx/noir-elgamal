@@ -1,0 +1,6 @@
+ciphertext_1 = ""
+ciphertext_2 = ""
+gen = ""
+m = ["", "", "", ""]
+pub_key = ""
+r = ["", "", "", ""]
